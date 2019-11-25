@@ -18,7 +18,7 @@ function Header(props) {
   return (
     <div style={style.headerContainer}>
       <p style={style.headerTitle}>
-        Web <span style={style.secondaryTitle}>App</span>
+        Video<span style={style.secondaryTitle}>SHARE</span>
       </p>
       <Button
         variant="danger"

@@ -80,8 +80,8 @@ class Signup extends React.Component {
             <div style={style.authHeader}>
               <div style={style.borderWrapper}>
                 <p style={style.headerTitle}>
-                  Welcome to <span style={style.makeBold}>Web</span>
-                  <span style={style.changeColor}>APP</span>
+                  Welcome to <span style={style.makeBold}>Video</span>
+                  <span style={style.changeColor}>SHARE</span>
                 </p>
                 <p style={style.headerSubHeading}>Create your account easily</p>
               </div>
